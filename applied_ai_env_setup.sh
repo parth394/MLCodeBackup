@@ -7,5 +7,5 @@ pip3 install https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tar
 pip3 install jupyter_nbextensions_configurator
 jupyter contrib nbextension install 
 jupyter nbextensions_configurator enable 
-pip3 install graphviz distance fuzzywazzy imblearn networkx spacy folium prettytable tqdm xgboost gpxpy skmultilearn surprise stellargraph tensorboard gensim
+pip3 install graphviz distance fuzzywazzy imblearn networkx spacy folium prettytable tqdm xgboost gpxpy scikit-multilearn surprise stellargraph tensorboard gensim
 
