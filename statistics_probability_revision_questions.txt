@@ -1,0 +1,83 @@
+Q1 What is PDF?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2842/gaussiannormal-distribution-and-its-pdfprobability-density-function/2/module-2-data-science-exploratory-data-analysis-and-data-visualization) 
+
+Ans Pdf at any given point gives the pobability density of and when we integrate the pdf over a given range then it gives the probabiltiy of the random variable to lie in that given range.
+ 
+Q2 What is CDF?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2843/cdfcumulative-distribution-function-of-gaussiannormal-distribution/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans Cdf of a real valued random variable X evaluated at x is probability that X will take a value less than or equal to x.
+explain about 1-std-dev, 2-std-dev, 3-std-dev range?
+ 
+Q3 What is Symmetric distribution, Skewness and Kurtosis?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2844/symmetric-distribution-skewness-and-kurtosis/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans A Symmetric distribution happens when there exits a point x` f(x`+&) = f(x`-&) for all real numbers &.
+Skewness is the measure of asymmetry of a real valued random variable 
+Kurtosis is the measure of taildness of a real valued random variable
+
+
+Q4 How to do Standard normal variate (z) and standardization?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2845/standard-normal-variate-z-and-standardization/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans Given a random varibale X ~ N(mu , sigma) there exits a standard normal variate z such that z ~ N (0,1) and z = (X-mu)/sigma
+Standardization is a process of converting a real values random variable to standard normal variate.
+ 
+Q5 What is Kernel density estimation?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2846/kernel-density-estimation/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans Kernel Density Estimation is a non parametric way to estimate the probability density function of a random varibale.
+ 
+Q6 Importance of Sampling distribution & Central Limit theorem?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2847/sampling-distribution-central-limit-theorem/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans Sampling distribution is the probability distribution of a given random sample based statistics.
+ 
+Q7 Importance of Q-Q Plot: Is a given random variable Gaussian distributed?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2848/q-q-plothow-to-test-if-a-random-variable-is-normally-distributed-or-not/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans Q-Q plot helps to determine the distribution of a function.
+ 
+Q8 What is Uniform Distribution and random number generators?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2850/how-to-randomly-sample-data-points-uniform-distribution/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans When all the values of  real valued random variable has equal probability of occuring then that random variable is called uniform distributed random variable
+Random number generators are the function which produce random numbers based on a distribution and size requested.
+
+Q9 What Discrete and Continuous Uniform distributions?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2849/discrete-and-continuous-uniform-distributions/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+How to randomly sample data points?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2850/how-to-randomly-sample-data-points-uniform-distribution/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans A Discrete Uniform Distribution is symmetric probability distribution whereby a finite number of values are equally likely to be observed.Every one of n values has equal probablity of 1/n.
+A Continous Uniform Distribution is symmetric probability distribution such that each value in an interval [a,b] has equal probabilty of occuring.
+ 
+Q10 Explain about Bernoulli and Binomial distribution?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2851/bernoulli-and-binomial-distribution/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+
+Ans Bernoulli's distribution is a discrete 
+ 
+Q11 What is Log-normal  and power law distribution?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2852/log-normal-distribution/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+ 
+Q12 What is Power-law & Pareto distributions: PDF, examples?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2853/power-law-distribution/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+ 
+Q13 Explain about Box-Cox/Power transform?
+(https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2854/box-cox-transform/2/module-2-data-science-exploratory-data-analysis-and-data-visualization)
+ 
+Q14 What is Co-variance?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2855/co-variance/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+ 
+Q15 Importance of Pearson Correlation Coefficient?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2856/pearson-correlation-coefficient/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+ 
+Q16 Importance Spearman Rank Correlation Coefficient?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2857/spearman-rank-correlation-coefficient/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+ 
+Q17 Correlation vs Causation?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2858/correlation-vs-causation/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+ 
+Q18 What is Confidence Intervals?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2859/confidence-interval-ci-introduction/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+ 
+Q19 Confidence Interval vs Point estimate?
+Explain about Hypothesis testing?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2863/hypothesis-testing-methodology-null-hypothesis-p-value/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+ 
+Q20 Define Hypothesis Testing methodology, Null-hypothesis, test-statistic, p-value?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2863/hypothesis-testing-methodology-null-hypothesis-p-value/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
+ 
+Q21 How to do K-S Test for similarity of two distributions?https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2865/k-s-test-for-similarity-of-two-distributions/2/module-2-data-science-exploratory-data-analysis-and-data-visualization
