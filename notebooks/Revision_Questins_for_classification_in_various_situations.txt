@@ -1,0 +1,27 @@
+
+    What is Imbalanced and  balanced dataset.
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2958/imbalanced-vs-balanced-dataset/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Define Multi-class classification?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2959/multi-class-classification/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Explain Impact of Outliers?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2962/impact-of-outliers/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    What is Local Outlier Factor?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2963/local-outlier-factor-simple-solution-mean-distance-to-knn/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    What is k-distance (A), N(A)
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2964/k-distance/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Define reachability-distance(A, B)?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2965/reachability-distanceab/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    What is Local-reachability-density(A)?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2966/local-reachability-densitya/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Define LOF(A)?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2967/local-outlier-factora/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Impact of Scale & Column standardization?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2968/impact-of-scale-column-standardization/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    What is Interpretability?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2969/interpretability/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Handling categorical and numerical features?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2971/handling-categorical-and-numerical-features/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Handling missing values by imputation?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2977/handling-missing-values-by-imputation/3/module-3-foundations-of-natural-language-processing-and-machine-learning
+    Bias-Variance tradeoff?
+    https://www.appliedaicourse.com/lecture/11/applied-machine-learning-online-course/2973/bias-variance-tradeoff/3/module-3-foundations-of-natural-language-processing-and-machine-learning
